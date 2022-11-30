@@ -1,0 +1,7 @@
+The first empty train is train 14, to C.
+
+The last train with some parcels on it is train 48, to B.
+It has 17589 parcels with a load of 61503.14 kg.
+
+24 of the 100 trains have some parcels on it.
+
