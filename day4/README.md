@@ -1,7 +1,7 @@
 <a href="https://indico.ictp.it/event/9781/"><img src="https://raw.githubusercontent.com/zelenelez/images/master/International_Centre_for_Theoretical_Physics.png" width="125" height="125" align="right" /></a>
 
 # Day 4 
-1-st December 2022| *ICTP, Adriatico Guest House*
+1-st December 2022 | *ICTP, Adriatico Guest House*
 ### Schedule
 ``9:30`` | **Code Design, Algorithms & Optimization** 1h15'. <br> Speaker:	David GRELLSCHEID (University of Bergen, Norway)
  <br>
