@@ -1,7 +1,8 @@
 <a href="https://indico.ictp.it/event/9781/"><img src="https://raw.githubusercontent.com/zelenelez/images/master/International_Centre_for_Theoretical_Physics.png" width="125" height="125" align="right" /></a>
 
 # 9th Workshop on Collaborative Scientific Software Development and Management of Open Source Scientific Packages 
-``SMR 3696`` | **28-Nov-22 to 09-Dec-22** | *Adriatico Guest House Riva Massimiliano e Carlotta, Grignano I - 34151 Trieste (Italy)*
+``SMR 3696`` | **28-Nov-22** to **09-Dec-22**  <br>
+*Adriatico Guest House Riva Massimiliano e Carlotta, Grignano I - 34151 Trieste (Italy)*
 
 
 
