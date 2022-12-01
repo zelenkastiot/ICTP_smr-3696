@@ -1,7 +1,7 @@
 <a href="https://indico.ictp.it/event/9781/"><img src="https://raw.githubusercontent.com/zelenelez/images/master/International_Centre_for_Theoretical_Physics.png" width="125" height="125" align="right" /></a>
 
 # Day 2
-29-th December | *ICTP, Adriatico Guest House*
+29-th November 2022 | *ICTP, Adriatico Guest House*
 ### Schedule
 ``9:30`` | **Basic of Programming** 1h15'. <br> Speaker:	Ali FARNUDI (École normale supérieure de Lyon, France) <br>
 

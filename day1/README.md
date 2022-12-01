@@ -1,7 +1,7 @@
 <a href="https://indico.ictp.it/event/9781/"><img src="https://raw.githubusercontent.com/zelenelez/images/master/International_Centre_for_Theoretical_Physics.png" width="125" height="125" align="right" /></a>
 
 # Day 1 
-28-th December | *ICTP, Adriatico Guest House*
+28-th November 2022 | *ICTP, Adriatico Guest House*
 ### Schedule
 ``4:00`` | **Intro to Python** 1h0'. <br>Speaker:	David GRELLSCHEID (University of Bergen, Norway) <br>
 
